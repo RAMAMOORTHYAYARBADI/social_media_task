@@ -1,0 +1,12 @@
+Django
+django-admin-interface
+django-colorfield
+django-cors-headers
+django-debug-toolbar          
+django-flat-responsive
+django-flat-theme
+djangorestframework
+djangorestframework-simplejwt
+mysqlclient
+python-decouple
+requests
