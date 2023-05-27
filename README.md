@@ -20,16 +20,15 @@ Install dependancies
 ### Create Log folder   
     $ mkdir Log
 
-<!-- CREATE ROLE -->
-    FOR CREATE THE ROLES RUN THE COMMAND BELOW,
-        * python manage.py create_role
-
-
 <!-- MAKING MIGRATION -->
     *python manage.py makemigrations 
 
     then,
     *python manage.py migrate
+
+<!-- CREATE ROLE -->
+    FOR CREATE THE ROLES RUN THE COMMAND BELOW,
+        * python manage.py create_role
 
 <!-- RUN THE PROJECT -->
     python manage.py runserver
